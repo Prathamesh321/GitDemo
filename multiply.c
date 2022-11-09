@@ -6,4 +6,7 @@ void main()
 	
 	printf("\n\t sum is :%d",(a*b));
 	
+	
+	
+	
 }
